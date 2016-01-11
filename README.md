@@ -1,7 +1,7 @@
 ## Octavian Rotari
 
 
-A competent and committed Web Developer graduated from Makers Academy looking for a rewarding career in the Information Technology sector. Highly focused a motivated to keep learning and continue improving my self, with a comprehensive knowledge of designing and developing the layout, visual appearance and usability of a website. Possessing a proven track record of successfully completing projects on GitHub.
+A competent and committed Web Developer graduated from Makers Academy looking for a rewarding career in the Information Technology sector. Highly focused a motivated to keep learning and continue improving my self, with a comprehensive knowledge of designing and developing the layout, visual appearance and usability of a website. 
 
 Eager to learn, easygoing by nature and able to get along with colleagues. Currently looking for a suitable junior web developer position.
 
