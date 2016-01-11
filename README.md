@@ -1,10 +1,36 @@
-## Your Name
+## Octavian Rotari
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+A competent and committed Web Developer graduated from Makers Academy looking for a rewarding career in the Information Technology sector. Highly focused a motivated to keep learning and continue improving my self, with a comprehensive knowledge of designing and developing the layout, visual appearance and usability of a website. Possessing a proven track record of successfully completing projects on GitHub.
+
+Eager to learn, easygoing by nature and able to get along with colleagues. Currently looking for a suitable junior web developer position.
 
 ## Skills
+SKILLS
 
-#### This Skill
+Langauges
+ - Ruby
+ - Javascript
+ - HTML5
+ - CSS3
+ - Node.js
+ - JQuery
+Databases
+ - PostgreSQL
+ - MongoDB
+Frameworks
+ - Sinatra
+ - Ruby-On-Rails
+ - NodeJS
+ - AngularJS
+ - Bootstrap
+Testing
+ - RSpec
+ - Jasmine
+ - Capybara
+ - Selenium
+Other
+ - GitObject - Orientated - ProgrammingPair - ProgrammingAgile - Development
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,37 +38,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (10/2015 - 1/2016)
+
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Technical Commercial Institute “G. Ginnani” - Ravenna ( IT ) 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+ - Finished with 98% this year before the course at the Makers Academy, while working in a steel factory full time.
+
 
 #### Any other qualifications
 
+Worked as a logistic manager and consultant at Rotari Autotrasporti Srl in Ravenna ( IT ).
+Currently gaining experience and building valuable skills with side projects to continually improve my knowledge and consolidate.
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+I was also employed for building the website of the Rotari Autotrasporti srl during the course. I was responsible for developing the project from scratch.
+The technologies that I used were Node.js with Mongodb and express for the back-end and Html Css and Jquerry for the front end. 
+
