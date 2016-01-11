@@ -5,39 +5,35 @@ A competent and committed Web Developer graduated from Makers Academy looking fo
 
 Eager to learn, easygoing by nature and able to get along with colleagues. Currently looking for a suitable junior web developer position.
 
-## Skills
-SKILLS
+### Skills
 
-Langauges
+# Langauges
  - Ruby
  - Javascript
  - HTML5
  - CSS3
  - Node.js
  - JQuery
-Databases
+# Databases
  - PostgreSQL
  - MongoDB
-Frameworks
+# Frameworks
  - Sinatra
  - Ruby-On-Rails
  - NodeJS
  - AngularJS
  - Bootstrap
-Testing
+# Testing
  - RSpec
  - Jasmine
  - Capybara
  - Selenium
-Other
- - GitObject - Orientated - ProgrammingPair - ProgrammingAgile - Development
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
+# Other
+ - GitObject 
+ - Orientated 
+ - ProgrammingPair 
+ - ProgrammingAgile 
+ - Development
 
 ## Education
 
