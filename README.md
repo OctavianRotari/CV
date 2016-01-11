@@ -10,9 +10,9 @@ Technical Skills and Technologies
 | |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, HTML/CSS|Javascript||
-|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord||Neo4j                 |
-|Frameworks|Rails, Sinatra, Bootstrap|Express.js|Angular.js,Meteor.js                       |
-|Testing|RSpec, Capybara|Jasmine, FactoryGirl, Fabricator|
+|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Mongodb||Ionic                 |
+|Frameworks|Rails, Sinatra, Bootstrap|Express.js|Angular.js                       |
+|Testing|RSpec, Capybara|Jasmine, Protractor, Grunt|
 |Other|Version control through Github, TDD|Heroku deployment, Agile methodologies| |
 
 ### Other Skills
