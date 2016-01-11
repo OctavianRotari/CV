@@ -62,5 +62,5 @@ Currently gaining experience and building valuable skills with side projects to 
 ## Experience
 
 I was also employed for building the website of the Rotari Autotrasporti srl during the course. I was responsible for developing the project from scratch.
-The technologies that I used were Node.js with Mongodb and express for the back-end and Html Css and Jquerry for the front end. 
+The technologies that I used were Node.js with Mongodb and express for the back-end and Html Css and JQuery for the front end. 
 
