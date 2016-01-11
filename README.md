@@ -7,28 +7,28 @@ Eager to learn, easygoing by nature and able to get along with colleagues. Curre
 
 ### Skills
 
-### Langauges
+- Langauges
  - Ruby
  - Javascript
  - HTML5
  - CSS3
  - Node.js
  - JQuery
-### Databases
+- Databases
  - PostgreSQL
  - MongoDB
-### Frameworks
+- Frameworks
  - Sinatra
  - Ruby-On-Rails
  - NodeJS
  - AngularJS
  - Bootstrap
-### Testing
+- Testing
  - RSpec
  - Jasmine
  - Capybara
  - Selenium
-### Other
+- Other
  - GitObject 
  - Orientated 
  - ProgrammingPair 
