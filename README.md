@@ -35,6 +35,10 @@ Eager to learn, easygoing by nature and able to get along with colleagues. Curre
  - ProgrammingAgile 
  - Development
 
+### Other Skills
+
+Speaking 4 different languages: English, Italian, Rumenian and Russian
+
 ## Education
 
 #### Makers Academy (10/2015 - 1/2016)
