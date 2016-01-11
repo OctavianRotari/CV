@@ -7,11 +7,11 @@ Eager to learn, easygoing by nature and able to get along with colleagues. Curre
 
 Technical Skills and Technologies
 ---------------------------------
-| |Most Comfortable|Comfortable|Touched on|
+| |Most Comfortable|Comfortable|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, HTML/CSS|Javascript||
-|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Mongodb||Ionic                 |
-|Frameworks|Rails, Sinatra, Bootstrap|Express.js|Angular.js                       |
+|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Mongodb                 |
+|Frameworks|Rails, Sinatra, Bootstrap|Express.js, Angular.js, Ionic                       |
 |Testing|RSpec, Capybara|Jasmine, Protractor, Grunt|
 |Other|Version control through Github, TDD|Heroku deployment, Agile methodologies| |
 
