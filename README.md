@@ -41,27 +41,29 @@ I am fluent in English, Italian, Romanian and Russian.
 #### Any other qualifications
 
  - Currently completing the Mongodb University course.
+ - TOEF Exam 78% prior to moving to London
 
 ## Experience
 
-Rotari Autotrasporti Srl in Ravenna ( IT ).
+*Rotari Autotrasporti Srl in Ravenna ( IT )* (date to date)
 
- - Worked as a Logistic Manager and Consultant till september 2015.
+ - Worked as a Logistic Manager and Consultant at a small start up in the transport sector.
+ - My responsibilities included supporting the CEO, organising the inventory and managing stakeholders. 
+ - Whilst studying at Makers Academy I also created the website for the company which can be viewed here: blah .
+ - The website was created using Node.js, Mongodb and express for the back-end and HtmlCss and JQuery for the front end. 
 
- Conding Experience
+*Carrozeria Mattioli* (date to date)
 
- - I was also employed for building the website of the Rotari Autotrasporti srl during the course. I was responsible for developing the project from scratch.
-The technologies that I used were Node.js with Mongodb and express for the back-end and HtmlCss and JQuery for the front end. 
+ - After completing school I worked at a mechanics shop in order to persue my love of cars and automotives. 
+ - Although I enjoyed the hands-on experience I wished to gain a higher level of theoretical learing and returned to my studies.
 
- Carrozeria Mattioli
+*EBS European Bartender School* (date to date)
 
- - At the age of 18 I left school and I started to work in a car shop, because one of my passions are cars and motorbicicles. But then I have to left the work because my parents had to move city.
-
- EBS European Bartender School
-
- - Located in Stocholm, I attended this course partly out of personal curiosity, but mainly with an interest in developing my english skills in preperation for a TOEFL exam, a requirement for visa application. 
+ - Located in Stocholm, I attended this course to gain necessary skills in order to not only grow personally but also develop my English language skills. 
+ - I learnt how to work with different personalities and also to perform under pressure.
  
- *Second Chef* (.
+ *Second Chef* (date to date)
+ - some points here 
 
  
 
