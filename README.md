@@ -1,15 +1,12 @@
 ## Octavian Rotari
 
-
-A competent and committed Web Developer graduated from Makers Academy looking for a rewarding career in the Information Technology sector. Highly focused a motivated to keep learning and continue improving my self, with a comprehensive knowledge of designing and developing the layout, visual appearance and usability of a website. 
-
-Eager to learn, easygoing by nature and able to get along with colleagues. Currently looking for a suitable junior web developer position.
+I am an enthusiastic coder who recently graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural apptitute for astethics and styling of websites and mobile applications. I am looking for a Junior Developer job in London with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD/BDD practices are valued. 
 
 ### Skills
 
- - Adaptive to new environments; I moved from city to city since I was 10 so I have to learn to adapt very quickly.
- - Organized; before the course I was working in my father's company and most of the time he was out from work so I had to take his place and organize everything.
- - Collaborative; I like to work with people because it permits me to discover new points of view.
+ - Reactive: I am always adapting to new environments and situations. For example, I have moved over 7 times in my childhood and most recently have moved to the UK emmersed in another language.
+ - Organized: Before Maker's Academy I was working in a small start-up where the CEO was often not present. I took it upon myself to take more responsibility to ensure the smooth running of the office in his absence.  
+ - Collaborative: I enjoy working in teams both professionally and socially. During my time training Martial Arts I trained in a team of 4 fighters working together to achieve both common and individual goals. 
 
 ### Technical Skills and Technologies
 ---------------------------------
@@ -23,12 +20,11 @@ Eager to learn, easygoing by nature and able to get along with colleagues. Curre
 
 ### Other Skills
 
-Speaking 4 different languages: English, Italian, Romanian and Russian
+I am fluent in English, Italian, Romanian and Russian.
 
 ## Education
 
 #### Makers Academy (10/2015 - 1/2016)
-
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -37,17 +33,36 @@ Speaking 4 different languages: English, Italian, Romanian and Russian
 
 #### Technical Commercial Institute “G. Ginnani” - Ravenna ( IT ) 
 
- - Finished with 98% this year before the course at the Makers Academy, while working in a steel factory full time.
+ - Achieved 98% average in my final year
+ - During my studies I gained an in-depth understanding of economics and the way they relate to entrepreurship
+ - I attended classes during the evenings so I could work full-time during the day
 
 
 #### Any other qualifications
 
- - Worked as a logistic manager and consultant at Rotari Autotrasporti Srl in Ravenna ( IT ).
- - Currently gaining experience and building valuable skills with side projects to continually improve my knowledge and consolidate.
- - In these period I'm attending the Mongodb university for a course that lasts for 7 weeks.
+ - Currently completing the Mongodb University course.
 
 ## Experience
 
-I was also employed for building the website of the Rotari Autotrasporti srl during the course. I was responsible for developing the project from scratch.
-The technologies that I used were Node.js with Mongodb and express for the back-end and Html Css and JQuery for the front end. 
+Rotari Autotrasporti Srl in Ravenna ( IT ).
+
+ - Worked as a Logistic Manager and Consultant till september 2015.
+
+ Conding Experience
+
+ - I was also employed for building the website of the Rotari Autotrasporti srl during the course. I was responsible for developing the project from scratch.
+The technologies that I used were Node.js with Mongodb and express for the back-end and HtmlCss and JQuery for the front end. 
+
+ Carrozeria Mattioli
+
+ - At the age of 18 I left school and I started to work in a car shop, because one of my passions are cars and motorbicicles. But then I have to left the work because my parents had to move city.
+
+ EBS European Bartender School
+
+ - Located in Stocholm, I attended this course partly out of personal curiosity, but mainly with an interest in developing my english skills in preperation for a TOEFL exam, a requirement for visa application. 
+ 
+ *Second Chef* (.
+
+ 
+
 
