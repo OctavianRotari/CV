@@ -45,25 +45,25 @@ I am fluent in English, Italian, Romanian and Russian.
 
 ## Experience
 
-*Rotari Autotrasporti Srl in Ravenna ( IT )* (date to date)
+**Rotari Autotrasporti Srl in Ravenna ( IT )** (date to date)
 
- - Worked as a Logistic Manager and Consultant at a small start up in the transport sector.
- - My responsibilities included supporting the CEO, organising the inventory and managing stakeholders. 
- - Whilst studying at Makers Academy I also created the website for the company which can be viewed here: blah .
- - The website was created using Node.js, Mongodb and express for the back-end and HtmlCss and JQuery for the front end. 
+- Worked as a Logistic Manager and Consultant at a small start up in the transport sector.
+- My responsibilities included supporting the CEO, organising the inventory and managing stakeholders. 
+- Whilst studying at Makers Academy I also created the website for the company which can be viewed here: blah .
+- The website was created using Node.js, Mongodb and express for the back-end and HtmlCss and JQuery for the front end. 
 
-*Carrozeria Mattioli* (date to date)
+**Carrozeria Mattioli** (date to date)
 
- - After completing school I worked at a mechanics shop in order to persue my love of cars and automotives. 
- - Although I enjoyed the hands-on experience I wished to gain a higher level of theoretical learing and returned to my studies.
+- After completing school I worked at a mechanics shop in order to persue my love of cars and automotives. 
+- Although I enjoyed the hands-on experience I wished to gain a higher level of theoretical learing and returned to my studies.
 
-*EBS European Bartender School* (date to date)
+**EBS European Bartender School** (date to date)
 
- - Located in Stocholm, I attended this course to gain necessary skills in order to not only grow personally but also develop my English language skills. 
- - I learnt how to work with different personalities and also to perform under pressure.
- 
- *Second Chef* (date to date)
- - some points here 
+- Located in Stocholm, I attended this course to gain necessary skills in order to not only grow personally but also develop my English language skills. 
+- I learnt how to work with different personalities and also to perform under pressure.
+
+**Second Chef** (date to date)
+- some points here 
 
  
 
