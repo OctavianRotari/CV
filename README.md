@@ -50,7 +50,7 @@ I am fluent in English, Italian, Romanian and Russian.
 - Worked as a Logistic Manager and Consultant at a small start up in the transport sector.
 - My responsibilities included supporting the CEO, organising the inventory and managing stakeholders. 
 - Whilst studying at Makers Academy I also created the website for the company which can be viewed here: blah .
-- The website was created using Node.js, Mongodb and express for the back-end and HtmlCss and JQuery for the front end. 
+- The website was created using Node.js, Mongodb and express for the back-end and HtmlCss and JQuery for the front end.    https://auotrasporti.herokuapp.com/
 
 **Carrozeria Mattioli**
 
