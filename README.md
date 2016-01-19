@@ -45,7 +45,7 @@ I am fluent in English, Italian, Romanian and Russian.
 
 ## Experience
 
-**Rotari Autotrasporti Srl in Ravenna ( IT )**
+**Rotari Autotrasporti Srl in Ravenna ( IT )** (10/2011 - 08/2015)
 
 - Worked as a Logistic Manager and Consultant at a small start up in the transport sector.
 - My responsibilities included supporting the CEO, organising the inventory and managing stakeholders. 
@@ -53,17 +53,17 @@ I am fluent in English, Italian, Romanian and Russian.
 - The website was created using Node.js, Mongodb and express for the back-end and HtmlCss and JQuery for the front end,
   currently still working on the design. https://auotrasporti.herokuapp.com/( MVC ) 
 
-**Carrozeria Mattioli**
+**Carrozeria Mattioli** (07/2011 - 11/2011)
 
 - After completing school I worked at a mechanics shop in order to persue my love of cars and automotives. 
 - Although I enjoyed the hands-on experience I wished to gain a higher level of theoretical learing and returned to my studies.
 
-**EBS European Bartender School**
+**EBS European Bartender School**(08/2015 - 10/2015)
 
 - Located in Stocholm, I attended this course to gain necessary skills in order to not only grow personally but also develop my English language skills. 
 - I learnt how to work with different personalities and also to perform under pressure.
 
-**Second Chef**
+**Second Chef** (2009 - 2011)
 - Worked as second chef in different restaurants since I was 16 till I was 18 while I was studying.
 - I learnt the value of money and I developed the ability to communicate efficiently with co-workers.
 
