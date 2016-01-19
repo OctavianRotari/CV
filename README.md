@@ -12,9 +12,9 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 ---------------------------------
 | |Most Comfortable|Comfortable|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Ruby [AirportChallenge](https://github.com/OctavianRotari/airport_challenge), HTML/CSS|Javascript [Bowling Score Calculator](https://github.com/OctavianRotari/bowling-challenge)||
+|Languages|Ruby, HTML/CSS|Javascript ||
 |Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Mongodb                 |
-|Frameworks|Rails [Twitter clone] (https://github.com/OctavianRotari/chitter-challenge), Sinatra, Bootstrap|Express.js, AngularJs, Ionic, Grunt, NodeJs [ToDo](https://github.com/OctavianRotari/todo_challenge)                     |
+|Frameworks|Rails, Sinatra, Bootstrap|Express.js, AngularJs, Ionic, Grunt, NodeJs|
 |Testing|RSpec, Capybara|Jasmine, Protractor|
 |Other|Version control through Github, TDD|Heroku deployment, Agile methodologies| |
 
@@ -67,6 +67,9 @@ I am fluent in English, Italian, Romanian and Russian.
 - Worked as second chef in different restaurants since I was 16 till I was 18 while I was studying.
 - I learnt the value of money and I developed the ability to communicate efficiently with co-workers.
 
- 
+##Other
+
+- Lived in for different countries: Moldova, Italy, Sweden and England.
+- Visited most of the European capitals: Stockholm, Berlin, Amsterdam, Rome, Prague, Budapesti, Bucarest, Vienna, Vilnius, Riga and I've also been in Moscow and St. Petersburg.
 
 
