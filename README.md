@@ -76,4 +76,3 @@ I am fluent in English, Italian, Romanian and Russian.
 - [Todo Challenge](https://github.com/OctavianRotari/todo_challenge)
 - [Bowling Challenge](https://github.com/OctavianRotari/bowling-challenge)
 - [Chitter Challenge](https://github.com/OctavianRotari/chitter-challenge)
-- [Rsp Challenge](https://github.com/OctavianRotari/rps-challenge)
