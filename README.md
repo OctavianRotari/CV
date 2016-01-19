@@ -72,7 +72,7 @@ I am fluent in English, Italian, Romanian and Russian.
 - Lived in for different countries: Moldova, Italy, Sweden and England.
 - Visited most of the European capitals: Stockholm, Berlin, Amsterdam, Rome, Prague, Budapesti, Bucarest, Vienna, Vilnius, Riga and I've also been in Moscow and St. Petersburg.
 
-##Projects I'm proud of
+**Projects I'm proud of**
 - [Todo Challenge](https://github.com/OctavianRotari/todo_challenge)
 - [Bowling Challenge](https://github.com/OctavianRotari/bowling-challenge)
 - [Chitter Challenge](https://github.com/OctavianRotari/chitter-challenge)
