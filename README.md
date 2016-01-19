@@ -13,7 +13,7 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 | |Most Comfortable|Comfortable|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, HTML/CSS|Javascript ||
-|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Mongodb                 |
+|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord| Mongodb |
 |Frameworks|Rails, Sinatra, Bootstrap|Express.js, AngularJs, Ionic, Grunt, NodeJs|
 |Testing|RSpec, Capybara|Jasmine, Protractor|
 |Other|Version control through Github, TDD|Heroku deployment, Agile methodologies| |
