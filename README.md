@@ -12,9 +12,9 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 ---------------------------------
 | |Most Comfortable|Comfortable|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Ruby, HTML/CSS|Javascript||
+|Languages|Ruby[AirportChallenge](https://github.com/OctavianRotari/airport_challenge), HTML/CSS|Javascript[Bowling Score Calculator](https://github.com/OctavianRotari/bowling-challenge)||
 |Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, Mongodb                 |
-|Frameworks|Rails, Sinatra, Bootstrap|Express.js, Angular.js, Ionic, Grunt                      |
+|Frameworks|Rails[Twitter clone] (https://github.com/OctavianRotari/chitter-challenge), Sinatra, Bootstrap|Express.js, AngularJs, Ionic, Grunt, NodeJs [ToDo](https://github.com/OctavianRotari/todo_challenge)                     |
 |Testing|RSpec, Capybara|Jasmine, Protractor|
 |Other|Version control through Github, TDD|Heroku deployment, Agile methodologies| |
 
