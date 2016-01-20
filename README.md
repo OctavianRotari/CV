@@ -6,7 +6,7 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 
  - Reactive: I am always adapting to new environments and situations. For example, I have moved over 7 times in my childhood and most recently have moved to the UK immersed in another language.
  - Organized: Before Maker's Academy I was working in a small start-up where the CEO was often not present. I took it upon myself to take more responsibility to ensure the smooth running of the office in his absence.  
- - Collaborative: I enjoy working in teams both professionally and socially. During my time training Martial Arts I trained in a team of 4 fighters working together to achieve both common and individual goals.Collaborative: I enjoy working in teams both professionally and socially. During my time training Martial Arts I trained in a team of 4 fighters working together to achieve both common and individual goals.Collaborative: I enjoy working in teams both professionally and socially. During my time training Martial Arts I trained in a team of 4 fighters working together to achieve both common and individual goals. 
+ - Collaborative: I enjoy working in teams both professionally and socially. During my time training Martial Arts I trained in a team of 4 fighters working together to achieve both common and individual goals.
 
 ### Technical Skills and Technologies
 ---------------------------------
