@@ -49,9 +49,9 @@ I am fluent in English, Italian, Romanian and Russian.
 
 - Worked as a Logistic Manager and Consultant at a small start up in the transport sector
 - My responsibilities included supporting the CEO, organising the inventory and managing stakeholders.
-- Whilst studying at Makers Academy I also created the website for the company which can be viewed here: https://auotrasporti.herokuapp.com/ (MVP).
-- The website was created using Node.js, Mongodb and express for the back-end and HtmlCss and JQuery for the front end,
-  currently still working on the design.  
+- I also created the website for the company which can be viewed here: http://www.autotrasportirotari.it/.
+- I used PHP because the company already had an apache server, so I had to learn how to write code in PHP.
+- I also started to study some SEO basics to help the company with the rating on Google.
 
 **Carrozzeria Mattioli in Curtatone - (Italy) (07/2011 - 11/2011)**
 
@@ -73,6 +73,5 @@ I am fluent in English, Italian, Romanian and Russian.
 - Visited most of the European capitals: Stockholm, Berlin, Amsterdam, Rome, Prague, Budapest, Bucharest, Vienna, Vilnius, Riga and I've also been in Moscow and St. Petersburg.
 
 ##Projects I'm proud of
-- [Todo Challenge](https://github.com/OctavianRotari/todo_challenge)
-- [Bowling Challenge](https://github.com/OctavianRotari/bowling-challenge)
-- [Chitter Challenge](https://github.com/OctavianRotari/chitter-challenge)
+- [CMS_PHP](https://github.com/OctavianRotari/cms_php)
+- [Autotrasporti Rotari](https://github.com/OctavianRotari/autotrasportiPhp)
