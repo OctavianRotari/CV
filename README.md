@@ -1,5 +1,7 @@
 ## Octavian Rotari
 
+#www.octavianrotari.com
+
 I am an enthusiastic coder who recently graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural aptitute for aesthetics and styling of websites and mobile applications. I am looking for a Junior Developer job in London with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD/BDD practices are valued. 
 
 ### Skills
