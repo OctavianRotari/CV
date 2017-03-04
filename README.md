@@ -36,16 +36,16 @@ I am fluent in English, Italian, Romanian and Russian.
 
 ### Currently studying
 
-Front-end Nanodegree on Udacity.
+* Front-end Nanodegree on Udacity.
 
-SEO Training Academy on Udemy.
+* SEO Training Academy on Udemy.
 
 ### Udemy
 
-#### Become a PHP maste
+#### Become a PHP master
 
-Completed on 10/12/2016
-Final project at: [CMS PHP](https://github.com/OctavianRotari/cms_php)
+* Completed on 10/12/2016
+** Final project at: [CMS PHP](https://github.com/OctavianRotari/cms_php)
 
 #### Building responsive real world wesites
 
@@ -106,9 +106,5 @@ https://learningcodeinlondon.wordpress.com/
 
 ##Other
 
-- Lived in for different countries: Moldova, Italy, Sweden and England.
+- Lived in for different countries: Moldova, Italy, Sweden and United Kingdom.
 - Visited most of the European capitals: Stockholm, Berlin, Amsterdam, Rome, Prague, Budapest, Bucharest, Vienna, Vilnius, Riga and I've also been in Moscow and St. Petersburg.
-
-##Projects I'm proud of
-- [CMS_PHP](https://github.com/OctavianRotari/cms_php)
-- [Autotrasporti Rotari](https://github.com/OctavianRotari/autotrasportiPhp)
