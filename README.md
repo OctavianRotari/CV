@@ -42,21 +42,20 @@ Frameworks|Projects|
 
 ### Udemy
 
-#### Become a PHP master
+- #### Become a PHP master
 
-- Completed on 10/12/2016
- * Final project at: [CMS PHP](https://github.com/OctavianRotari/cms_php)
+ * Completed on 10/12/2016
+  * Final project at: [CMS PHP](https://github.com/OctavianRotari/cms_php)
 
-#### Building responsive real world wesites
+- #### Building responsive real world wesites
 
- Completed on 23/11/2016
- Final project at: [Omnifood](https://github.com/OctavianRotari/Omnifood)
+ * Completed on 23/11/2016
+  * Final project at: [Omnifood](https://github.com/OctavianRotari/Omnifood)
 
-#### Advanced Javascript
+- #### Advanced Javascript
 
- Completed on 07/11/2016
-
- I'm currently writing blog posts about all the key concepts that I've learnt in this course on:
+ * Completed on 07/11/2016
+  * I'm currently writing blog posts about all the key concepts that I've learnt in this course on:
  https://learningcodeinlondon.wordpress.com/
 
 ### Makers Academy (10/2015 - 1/2016)
