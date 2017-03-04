@@ -17,8 +17,11 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 ---------------------------------
 |Languages|Projects|
 |----------------|----------------|
-|Ruby|[[
-chitter-challenge](https://github.com/octavianrotari/chitter-challenge), boris-bikes, [oystercard, [airportchallenge](https://github.com/octavianrotari/airport_challenge)](https://github.com/octavianrotari/oystercard)](https://github.com/octavianrotari/boris_bike)|
+|Ruby|
+[chitter-challenge](https://github.com/octavianrotari/chitter-challenge), 
+[boris-bikes](https://github.com/octavianrotari/boris_bike), 
+[oystercard](https://github.com/octavianrotari/oystercard),
+[airportchallenge](https://github.com/octavianrotari/airport_challenge)|
 |HTML/CSS|||
 |PHP|||
 |Javascript|||
