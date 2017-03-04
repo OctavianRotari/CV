@@ -2,7 +2,7 @@
 
 ####www.octavianrotari.com
 
-I am an enthusiastic coder who recently graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural aptitute for aesthetics and styling of websites and mobile applications. I am looking for a Junior Developer job in London with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD/BDD practices are valued.
+I am an enthusiastic coder who graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural aptitute for aesthetics and styling of websites and mobile applications. I am looking for a Junior Developer job in Edinburgh with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD/BDD practices are valued.
 
 ### Skills
 
@@ -14,11 +14,11 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 ---------------------------------
 |Languages|Projects|Frameworks|Projects|
 |----------------|----------------|----------------|----------------|
-|PHP|[CMS PHP](https://github.com/OctavianRotari/cms_php), [Autotrasporti Php](https://github.com/OctavianRotari/autotrasportiPhp)|Rails|[Yelp Clone](https://github.com/OctavianRotari/yelp_clone), [Shouter](https://github.com/OctavianRotari/Shouter)|
-|Ruby|[Chitter Challenge](https://github.com/octavianrotari/chitter-challenge), [Airport Challenge](https://github.com/octavianrotari/airport_challenge), [Takeaway Challenge](https://github.com/OctavianRotari/takeaway-challenge), [Rps Challenge](https://github.com/OctavianRotari/rps-challenge)|Sass|[Portfolio Sass](https://github.com/OctavianRotari/portfolio/tree/master/src/resources/scss), [Porfolio Udacity SCSS](https://github.com/OctavianRotari/porfolio_udacity/tree/master/src/resources/scss)|
-|HTML/CSS|[Portfolio](https://github.com/OctavianRotari/portfolio), [Omnifood](https://github.com/OctavianRotari/Omnifood), [Porfolio Udacity](https://github.com/OctavianRotari/porfolio_udacity), [Responsive Images](https://github.com/OctavianRotari/responsive_images)|Bootstrap|[Portfolio](https://github.com/OctavianRotari/portfolio), [Porfolio Udacity](https://github.com/OctavianRotari/porfolio_udacity)|
-|Javascript| [Todo Challenge](https://github.com/OctavianRotari/todo_challenge), [Bowling Challenge](https://github.com/OctavianRotari/bowling-challenge)|Grunt|[Responsive Images](https://github.com/OctavianRotari/responsive_images/blob/master/Gruntfile.js)|
-|||Gulp|[Porfolio Gulp](https://github.com/OctavianRotari/portfolio/blob/master/gulpfile.js), [Porfolio Udacity Gulp](https://github.com/OctavianRotari/porfolio_udacity/blob/master/gulpfile.js)|
+|PHP|[CMS PHP](https://github.com/OctavianRotari/cms_php),[Autotrasporti Php](https://github.com/OctavianRotari/autotrasportiPhp)|Rails|[Yelp Clone](https://github.com/OctavianRotari/yelp_clone),[Shouter](https://github.com/OctavianRotari/Shouter)|
+|Ruby|[Chitter Challenge](https://github.com/octavianrotari/chitter-challenge),[Airport Challenge](https://github.com/octavianrotari/airport_challenge),[Takeaway Challenge](https://github.com/OctavianRotari/takeaway-challenge),[Rps Challenge](https://github.com/OctavianRotari/rps-challenge)|Sass|[Portfolio Sass](https://github.com/OctavianRotari/portfolio/tree/master/src/resources/scss),[Porfolio Udacity SCSS](https://github.com/OctavianRotari/porfolio_udacity/tree/master/src/resources/scss)|
+|HTML/CSS|[Portfolio](https://github.com/OctavianRotari/portfolio),[Omnifood](https://github.com/OctavianRotari/Omnifood), [Porfolio Udacity](https://github.com/OctavianRotari/porfolio_udacity),[Responsive Images](https://github.com/OctavianRotari/responsive_images)|Bootstrap|[Portfolio](https://github.com/OctavianRotari/portfolio),[Porfolio Udacity](https://github.com/OctavianRotari/porfolio_udacity)|
+|Javascript|[Todo Challenge](https://github.com/OctavianRotari/todo_challenge),[Bowling Challenge](https://github.com/OctavianRotari/bowling-challenge)|Grunt|[Responsive Images](https://github.com/OctavianRotari/responsive_images/blob/master/Gruntfile.js)|
+|||Gulp|[Porfolio Gulp](https://github.com/OctavianRotari/portfolio/blob/master/gulpfile.js),[Porfolio Udacity Gulp](https://github.com/OctavianRotari/porfolio_udacity/blob/master/gulpfile.js)|
 |||Ionic|[Gym Buddy](https://github.com/OctavianRotari/GymBuddy)|
 
 
