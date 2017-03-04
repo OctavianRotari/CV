@@ -12,14 +12,14 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 
 ### Technical Skills and Technologies
 ---------------------------------
-|Languages|Projects|
-|----------------|----------------|
+|Languages|Projects||Frameworks|Projects|
+|----------------|----------------||----------------|----------------|
 |PHP|[CMS PHP](https://github.com/OctavianRotari/cms_php), [Autotrasporti Php](https://github.com/OctavianRotari/autotrasportiPhp)|
 |Ruby|[Chitter Challenge](https://github.com/octavianrotari/chitter-challenge), [Airport Challenge](https://github.com/octavianrotari/airport_challenge), [Takeaway Challenge](https://github.com/OctavianRotari/takeaway-challenge), [Rps Challenge](https://github.com/OctavianRotari/rps-challenge)|
 |HTML/CSS|[Portfolio](https://github.com/OctavianRotari/portfolio), [Omnifood](https://github.com/OctavianRotari/Omnifood), [Porfolio Udacity](https://github.com/OctavianRotari/porfolio_udacity), [Responsive Images](https://github.com/OctavianRotari/responsive_images)|
 |Javascript| [Todo Challenge](https://github.com/OctavianRotari/todo_challenge), [Bowling Challenge](https://github.com/OctavianRotari/bowling-challenge)|
 
-Frameworks|Projects|
+|Frameworks|Projects|
 |----------------|----------------|
 |Rails|[Yelp Clone](https://github.com/OctavianRotari/yelp_clone), [Shouter](https://github.com/OctavianRotari/Shouter)|
 |Sass|[Portfolio Sass](https://github.com/OctavianRotari/portfolio/tree/master/src/resources/scss), [Porfolio Udacity SCSS](https://github.com/OctavianRotari/porfolio_udacity/tree/master/src/resources/scss)|
