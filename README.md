@@ -1,6 +1,6 @@
 ## Octavian Rotari
 
-#www.octavianrotari.com
+####www.octavianrotari.com
 
 I am an enthusiastic coder who recently graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural aptitute for aesthetics and styling of websites and mobile applications. I am looking for a Junior Developer job in London with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD/BDD practices are valued.
 
@@ -12,7 +12,7 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 
 ### Technical Skills and Technologies
 ---------------------------------
-|####Languages|Projects|####Frameworks|Projects|
+|Languages|Projects|Frameworks|Projects|
 |----------------|----------------|----------------|----------------|
 |PHP|[CMS PHP](https://github.com/OctavianRotari/cms_php), [Autotrasporti Php](https://github.com/OctavianRotari/autotrasportiPhp)|Rails|[Yelp Clone](https://github.com/OctavianRotari/yelp_clone), [Shouter](https://github.com/OctavianRotari/Shouter)|
 |Ruby|[Chitter Challenge](https://github.com/octavianrotari/chitter-challenge), [Airport Challenge](https://github.com/octavianrotari/airport_challenge), [Takeaway Challenge](https://github.com/OctavianRotari/takeaway-challenge), [Rps Challenge](https://github.com/OctavianRotari/rps-challenge)|Sass|[Portfolio Sass](https://github.com/OctavianRotari/portfolio/tree/master/src/resources/scss), [Porfolio Udacity SCSS](https://github.com/OctavianRotari/porfolio_udacity/tree/master/src/resources/scss)|
@@ -21,9 +21,6 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 |||Gulp|[Porfolio Gulp](https://github.com/OctavianRotari/portfolio/blob/master/gulpfile.js), [Porfolio Udacity Gulp](https://github.com/OctavianRotari/porfolio_udacity/blob/master/gulpfile.js)|
 |||Ionic|[Gym Buddy](https://github.com/OctavianRotari/GymBuddy)|
 
-### Other Skills
-
- I am fluent in English, Italian, Romanian and Russian.
 
 ## Web development Education
 
@@ -57,6 +54,10 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
+
+### Other Skills
+
+ I am fluent in English, Italian, Romanian and Russian.
 
 ## Education
 
@@ -96,7 +97,7 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 - Worked as second chef in different restaurants since I was 16 till I was 18 while I was studying.
 - I learnt the value of money and I developed the ability to communicate efficiently with co-workers.
 
-##Other
+## Other
 
 - Lived in for different countries: Moldova, Italy, Sweden and United Kingdom.
 - Visited most of the European capitals: Stockholm, Berlin, Amsterdam, Rome, Prague, Budapest, Bucharest, Vienna, Vilnius, Riga and I've also been in Moscow and St. Petersburg.
