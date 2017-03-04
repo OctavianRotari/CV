@@ -44,8 +44,8 @@ Frameworks|Projects|
 
 #### Become a PHP master
 
-* Completed on 10/12/2016
-** Final project at: [CMS PHP](https://github.com/OctavianRotari/cms_php)
+- Completed on 10/12/2016
+ * Final project at: [CMS PHP](https://github.com/OctavianRotari/cms_php)
 
 #### Building responsive real world wesites
 
