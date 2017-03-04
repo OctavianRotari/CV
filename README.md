@@ -17,10 +17,11 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 ---------------------------------
 |Languages|Projects|
 |----------------|----------------|
-|Ruby|[chitter-challenge](https://github.com/octavianrotari/chitter-challenge),[boris-bikes](https://github.com/octavianrotari/boris_bike),[oystercard](https://github.com/octavianrotari/oystercard),[airportchallenge](https://github.com/octavianrotari/airport_challenge)|
-|HTML/CSS|||
-|PHP|||
-|Javascript|||
+|PHP|[CMS PHP](https://github.com/OctavianRotari/cms_php), [Autotrasporti Php](https://github.com/OctavianRotari/autotrasportiPhp)|
+|Ruby|[chitter-challenge](https://github.com/octavianrotari/chitter-challenge), [airport-challenge](https://github.com/octavianrotari/airport_challenge), [takeaway-challenge](https://github.com/OctavianRotari/takeaway-challenge), [rps-challenge](https://github.com/OctavianRotari/rps-challenge)|
+|HTML/CSS|[Portfolio](https://github.com/OctavianRotari/portfolio), [Omnifood](https://github.com/OctavianRotari/Omnifood), [porfolio_udacity](https://github.com/OctavianRotari/porfolio_udacity), [responsive_images](https://github.com/OctavianRotari/responsive_images)|
+|Javascript|[bowling-challenge](https://github.com/OctavianRotari/bowling-challenge), [todo_challenge](https://github.com/OctavianRotari/todo_challenge)|
+
 | |Most Comfortable|Comfortable|
 |----------------|----------------|----------------|-------------------|
 |Languages|Ruby, HTML/CSS, PHP|Javascript ||
