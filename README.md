@@ -2,7 +2,7 @@
 
 ####www.octavianrotari.com
 
-I am an enthusiastic coder who graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural aptitute for aesthetics and styling of websites and mobile applications. I am looking for a Junior Developer job in Edinburgh with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD/BDD practices are valued.
+I am an enthusiastic coder who graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural aptitude for aesthetics and styling of websites and mobile applications. I am looking for a Junior Developer job in Edinburgh with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD practices are valued.
 
 ### Skills
 
@@ -13,8 +13,8 @@ I am an enthusiastic coder who graduated from Makers Academy, a highly selective
 ### Technical Skills and Technologies
 ---------------------------------
 |Languages|Projects|Frameworks|Projects|
-|----------------|----------------|----------------|----------------|
-|PHP|[CMS PHP](https://github.com/OctavianRotari/cms_php), [Autotrasporti Php](https://github.com/OctavianRotari/autotrasportiPhp)|Rails|[Yelp Clone](https://github.com/OctavianRotari/yelp_clone), [Shouter](https://github.com/OctavianRotari/Shouter)|
+|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
+|PHP|[CMS PHP](https://github.com/OctavianRotari/cms_php), [Autotrasporti Php](https://github.com/OctavianRotari/autotrasportiPhp)(WIP)|Rails|[Yelp Clone](https://github.com/OctavianRotari/yelp_clone), [Shouter](https://github.com/OctavianRotari/Shouter)|
 |Ruby|[Chitter Challenge](https://github.com/octavianrotari/chitter-challenge), [Airport Challenge](https://github.com/octavianrotari/airport_challenge), [Takeaway Challenge](https://github.com/OctavianRotari/takeaway-challenge),[Rps Challenge](https://github.com/OctavianRotari/rps-challenge)|Sass|[Portfolio Sass](https://github.com/OctavianRotari/portfolio/tree/master/src/resources/scss), [Porfolio Udacity SCSS](https://github.com/OctavianRotari/porfolio_udacity/tree/master/src/resources/scss)|
 |HTML/CSS|[Portfolio](https://github.com/OctavianRotari/portfolio), [Omnifood](https://github.com/OctavianRotari/Omnifood), [Porfolio Udacity](https://github.com/OctavianRotari/porfolio_udacity), [ Responsive Images](https://github.com/OctavianRotari/responsive_images)|Bootstrap|[Portfolio](https://github.com/OctavianRotari/portfolio), [Porfolio Udacity](https://github.com/OctavianRotari/porfolio_udacity)|
 |Javascript|[Todo Challenge](https://github.com/OctavianRotari/todo_challenge), [Bowling Challenge](https://github.com/OctavianRotari/bowling-challenge)|Grunt|[Responsive Images](https://github.com/OctavianRotari/responsive_images/blob/master/Gruntfile.js)|
@@ -35,12 +35,12 @@ I am an enthusiastic coder who graduated from Makers Academy, a highly selective
 - #### Become a PHP master
 
  * Completed on 10/12/2016
-  * Final project at: [CMS PHP](https://github.com/OctavianRotari/cms_php)
+  * Final project: [CMS PHP](https://github.com/OctavianRotari/cms_php)
 
 - #### Building responsive real world wesites
 
  * Completed on 23/11/2016
-  * Final project at: [Omnifood](https://github.com/OctavianRotari/Omnifood)
+  * Final project: [Omnifood](https://github.com/OctavianRotari/Omnifood)
 
 - #### Advanced Javascript
 
@@ -79,9 +79,8 @@ I am an enthusiastic coder who graduated from Makers Academy, a highly selective
 
 - Worked as a Logistic Manager and Consultant at a small start up in the transport sector
 - My responsibilities included supporting the CEO, organising the inventory and managing stakeholders.
-- I also created the website for the company which can be viewed here: http://www.autotrasportirotari.it/.
-- I used PHP because the company already had an apache server, so I had to learn how to write code in PHP.
-- I also started to study some SEO basics to help the company with the rating on Google.
+- Due to the acquisition of improved skills, I am currently revising the web site of the company
+- I have also began a course in SEO to improve the rating of the web site.
 
 **Carrozzeria Mattioli in Curtatone - (Italy) (07/2011 - 11/2011)**
 
