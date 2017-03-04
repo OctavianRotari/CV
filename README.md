@@ -30,34 +30,34 @@ Frameworks|Projects|
 
 ### Other Skills
 
-I am fluent in English, Italian, Romanian and Russian.
+ I am fluent in English, Italian, Romanian and Russian.
 
 ## Web development Education
 
 ### Currently studying
 
-Front-end Nanodegree on Udacity.
+ Front-end Nanodegree on Udacity.
 
-SEO Training Academy on Udemy.
+ SEO Training Academy on Udemy.
 
 ### Udemy
 
 #### Become a PHP maste
 
-Completed on 10/12/2016
-Final project at: [CMS PHP](https://github.com/OctavianRotari/cms_php)
+ Completed on 10/12/2016
+ Final project at: [CMS PHP](https://github.com/OctavianRotari/cms_php)
 
 #### Building responsive real world wesites
 
-Completed on 23/11/2016
-Final project at: [Omnifood](https://github.com/OctavianRotari/Omnifood)
+ Completed on 23/11/2016
+ Final project at: [Omnifood](https://github.com/OctavianRotari/Omnifood)
 
 #### Advanced Javascript
 
-Completed on 07/11/2016
+ Completed on 07/11/2016
 
-I'm currently writing blog posts about all the key concepts that I've learnt in this course on:
-https://learningcodeinlondon.wordpress.com/
+ I'm currently writing blog posts about all the key concepts that I've learnt in this course on:
+ https://learningcodeinlondon.wordpress.com/
 
 ### Makers Academy (10/2015 - 1/2016)
 
