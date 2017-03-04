@@ -4,6 +4,9 @@
 
 I am an enthusiastic coder who recently graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural aptitute for aesthetics and styling of websites and mobile applications. I am looking for a Junior Developer job in London with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD/BDD practices are valued. 
 
+### Relevant Projects
+
+
 ### Skills
 
  - Reactive: I am always adapting to new environments and situations. For example, I have moved over 7 times in my childhood and most recently have moved to the UK immersed in another language.
@@ -13,7 +16,7 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 ### Technical Skills and Technologies
 ---------------------------------
 | |Most Comfortable|Comfortable|
-|---------|----------------|-------------------|------------------------------|
+|---------|----------------|----------------|-------------------|
 |Languages|Ruby, HTML/CSS, PHP|Javascript ||
 |Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, MySQL| Mongodb |
 |Frameworks|Rails, Sinatra, Bootstrap|Express.js, AngularJs, Ionic, Grunt, NodeJs|
@@ -24,14 +27,36 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 
 I am fluent in English, Italian, Romanian and Russian.
 
-## Education
+## Web development Education
 
-#### Makers Academy (10/2015 - 1/2016)
+### Currently studying
+
+Front-end Nanodegree on Udacity.
+
+SEO Training Academy on Udemy.
+
+### Udemy
+
+#### Become a PHP maste
+
+Completed on 10/12/2016
+
+#### Advanced Javascript
+
+Completed on 07/11/2016
+
+#### Building responsive real world wesites
+
+Completed on 23/11/2016
+
+### Makers Academy (10/2015 - 1/2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
+
+## Education
 
 #### Technical Commercial Institute “G. Ginnani” - Ravenna (Italy) (09/2012 - 06/2015)
 
