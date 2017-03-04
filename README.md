@@ -2,7 +2,7 @@
 
 #www.octavianrotari.com
 
-I am an enthusiastic coder who recently graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural aptitute for aesthetics and styling of websites and mobile applications. I am looking for a Junior Developer job in London with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD/BDD practices are valued. 
+I am an enthusiastic coder who recently graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural aptitute for aesthetics and styling of websites and mobile applications. I am looking for a Junior Developer job in London with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD/BDD practices are valued.
 
 ### Relevant Projects
 
@@ -10,16 +10,22 @@ I am an enthusiastic coder who recently graduated from Makers Academy, a highly 
 ### Skills
 
  - Reactive: I am always adapting to new environments and situations. For example, I have moved over 7 times in my childhood and most recently have moved to the UK immersed in another language.
- - Organized: Before Maker's Academy I was working in a small start-up where the CEO was often not present. I took it upon myself to take more responsibility to ensure the smooth running of the office in his absence.  
+ - Organized: Before Maker's Academy I was working in a small start-up where the CEO was often not present. I took it upon myself to take more responsibility to ensure the smooth running of the office in his absence.
  - Collaborative: I enjoy working in teams both professionally and socially. During my time training Martial Arts I trained in a team of 4 fighters working together to achieve both common and individual goals.
 
 ### Technical Skills and Technologies
 ---------------------------------
+|Languages|Projects|
+|----------------|----------------|
+|Ruby|[Boris-Bikes](https://github.com/OctavianRotari/Boris_bike)|
+|HTML/CSS|||
+|PHP|||
+|Javascript|||
 | |Most Comfortable|Comfortable|
-|---------|----------------|----------------|-------------------|
+|----------------|----------------|----------------|-------------------|
 |Languages|Ruby, HTML/CSS, PHP|Javascript ||
-|Databases/ORMS|PostGresQL, DataMapper, ActiveRecord, MySQL| Mongodb |
-|Frameworks|Rails, Sinatra, Bootstrap|Express.js, AngularJs, Ionic, Grunt, NodeJs|
+|Databases|PostGresQL, DataMapper, ActiveRecord, MySQL| Mongodb |
+|Frameworks|Rails, Sass, Bootstrap|AngularJs, Ionic, Gulp, Grunt, NodeJs|
 |Testing|RSpec, Capybara|Jasmine, Protractor|
 |Other|Version control through Github, TDD, PHPMyAdmin|Heroku deployment, Agile methodologies| |
 
@@ -40,14 +46,19 @@ SEO Training Academy on Udemy.
 #### Become a PHP maste
 
 Completed on 10/12/2016
+Final project at: [CMS PHP](https://github.com/OctavianRotari/cms_php)
+
+#### Building responsive real world wesites
+
+Completed on 23/11/2016
+Final project at: [Omnifood](https://github.com/OctavianRotari/Omnifood)
 
 #### Advanced Javascript
 
 Completed on 07/11/2016
 
-#### Building responsive real world wesites
-
-Completed on 23/11/2016
+I'm currently writing blog posts about all the key concepts that I've learnt in this course on:
+https://learningcodeinlondon.wordpress.com/
 
 ### Makers Academy (10/2015 - 1/2016)
 
@@ -82,12 +93,12 @@ Completed on 23/11/2016
 
 **Carrozzeria Mattioli in Curtatone - (Italy) (07/2011 - 11/2011)**
 
-- After completing school I worked at a mechanics shop in order to pursue my love of cars and automotives. 
+- After completing school I worked at a mechanics shop in order to pursue my love of cars and automotives.
 - Although I enjoyed the hands-on experience I wished to gain a higher level of theoretical learning and returned to my studies.
 
 **EBS European Bartender School in Stockholm - (Sweden) (08/2015 - 10/2015)**
 
-- Located in Stockholm, I attended this course to gain necessary skills in order to not only grow personally but also develop my English language skills. 
+- Located in Stockholm, I attended this course to gain necessary skills in order to not only grow personally but also develop my English language skills.
 - I learnt how to work with different personalities and also to perform under pressure.
 
 **Second Chef (Italy) (2009 - 2011)**
