@@ -5,15 +5,18 @@
 I am an enthusiastic coder who graduated from Makers Academy, a highly selective coding bootcamp in London. During my time at Makers, I have discovered I have a natural aptitude for aesthetics and styling of websites and mobile applications. I am looking for a Junior Developer job in Edinburgh with a company that is fast-paced and looking to grow their market presence. I enjoy working with others and see myself fitting in a team where pairing and TDD practices are valued.
 
 ### Skills
-
+ - Creative: I frequently ask my self what could be a better, faster or creative way to solve modane problems. Thus, a large appeal to learn how to code was due to the fact that it could facilitate me in developing these ideas in new and creative ways.
+ - Communicative: I speak fluently 4 different langauges thus with every language that I learnt I improved my communication skills, to deliver information clearn and concise while listening carefully to the other preson/people.
+ - Curios: since I was little I have been very inquisitive about everything I saw, thanks to this I've developed my knowledge in every scope, studing first mechanic, then economics and finaly web-development.
  - Reactive: I am always adapting to new environments and situations. For example, I have moved over 7 times in my childhood and most recently have moved to the UK immersed in another language.
  - Organized: Before Maker's Academy I was working in a small start-up where the CEO was often not present. I took it upon myself to take more responsibility to ensure the smooth running of the office in his absence.
  - Collaborative: I enjoy working in teams both professionally and socially. During my time training Martial Arts I trained in a team of 4 fighters working together to achieve both common and individual goals.
+ - Proactive: I belive that to succeed you have to acknowledge that you are resposible for everything that happens to you that's why I manged to study and work in different fields unrelated to one another, from accounting to mechanich and from working in a factory to being a web-developer. 
 
 ### Technical Skills and Technologies
 ---------------------------------
 |Languages|Projects|Frameworks|Projects|
-|--------------------------------|--------------------------------|--------------------------------|--------------------------------|
+|----------------|----------------|----------------|----------------|
 |PHP|[CMS PHP](https://github.com/OctavianRotari/cms_php), [Autotrasporti Php](https://github.com/OctavianRotari/autotrasportiPhp)(WIP)|Rails|[Yelp Clone](https://github.com/OctavianRotari/yelp_clone), [Shouter](https://github.com/OctavianRotari/Shouter)|
 |Ruby|[Chitter Challenge](https://github.com/octavianrotari/chitter-challenge), [Airport Challenge](https://github.com/octavianrotari/airport_challenge), [Takeaway Challenge](https://github.com/OctavianRotari/takeaway-challenge),[Rps Challenge](https://github.com/OctavianRotari/rps-challenge)|Sass|[Portfolio SCSS](https://github.com/OctavianRotari/portfolio/tree/master/src/resources/scss), [Porfolio Udacity SCSS](https://github.com/OctavianRotari/porfolio_udacity/tree/master/src/resources/scss)|
 |HTML/CSS|[Portfolio](https://github.com/OctavianRotari/portfolio), [Omnifood](https://github.com/OctavianRotari/Omnifood), [Porfolio Udacity](https://github.com/OctavianRotari/porfolio_udacity), [ Responsive Images](https://github.com/OctavianRotari/responsive_images)|Bootstrap|[Portfolio](https://github.com/OctavianRotari/portfolio), [Porfolio Udacity](https://github.com/OctavianRotari/porfolio_udacity)|
